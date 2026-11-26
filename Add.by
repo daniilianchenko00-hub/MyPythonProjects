@@ -1,5 +1,0 @@
-name_1 = input("Даня")
-print("Привет,", name_1, "!")
-
-name_2 = input("Ваня")
-print("Здравствуйте,", name_2, ".")
