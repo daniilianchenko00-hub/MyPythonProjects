@@ -1,0 +1,10 @@
+a=int(input())
+b = a//100
+c = (a%100)//10
+d = a%10
+print(b, c, d, sep="")
+print(b, d, c, sep="")
+print(c, b, d, sep="")
+print(c, d, b, sep="")
+print(d, b, c, sep="")
+print(d, c, b, sep="")
